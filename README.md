@@ -33,19 +33,19 @@ After completing this lesson, students will be able to:
 
 ### Create a Blog
 
-There are many things we can do with WordPress. For many people, the first thought would be a blog and this is a valid thought. WordPress can be used to create and present dynamic post-based information. Blog posts highlight information about an author, and they are arranged by their date of publication - displaying in reverse chronological order, but that can be changed as well. A blog is sorted by categories and tags so people can create special pages for their categories and readers can find posts based on tags they are following. Readers can also comment on posts so authors and administrators can establish a two-way dialog with readers.
+There are many things we can do with WordPress. For many people, the first thought would be a blog and this is a valid thought. WordPress can be used to create and present dynamic post-based information. Blog posts highlight information about an author, and they are arranged by their date of publication - displaying in reverse chronological order, but that can be changed as well. A blog is sorted by categories and tags so people can create special pages for their categories and readers can find posts based on tags they are following. Readers can also comment on posts so authors and administrators can establish a two-way dialog with readers.
 
 ### Create a Website
 
-Another use for WordPress is to create a website. Unlike the dynamic flow of the blog, a website offers a static page-based presentation of information. Readers view one page at a time (rather than a list of posts), and they access different pages using a navigation menu. Website pages generally do not offer information on an author, a date of publication, or allow comments. People tend to use websites to generate real-world traffic, making sales and connections in person.
+Another use for WordPress is to create a website. Unlike the dynamic flow of the blog, a website offers a static page-based presentation of information. Readers view one page at a time (rather than a list of posts), and they access different pages using a navigation menu. Website pages generally do not offer information on an author, a date of publication, or allow comments. People tend to use websites to generate real-world traffic, making sales and connections in person.
 
 ### Create an e-Commerce Website
 
-WordPress can also be used to make sales. It allows for the purchasing of products online. Users can safely and securely process credit card, PayPal, and other payments through Payment Gateways. Site administrators can manage order fulfillment and use tools provided on WordPress to generate sales reports.
+WordPress can also be used to make sales. It allows for the purchasing of products online. Users can safely and securely process credit card, PayPal, and other payments through Payment Gateways. Site administrators can manage order fulfillment and use tools provided on WordPress to generate sales reports.
 
 ### Create a Website with a Blog
 
-It is possible to combine the concepts of blog and website. This is done by making a front page (home page) static then linking to another page, which is set as a blog page. Combining the static page-based information and post-based information combines the best of both approaches.
+It is possible to combine the concepts of blog and website. This is done by making a front page (home page) static then linking to another page, which is set as a blog page. Combining the static page-based information and post-based information combines the best of both approaches.
 
 ### Create a Network of Websites
 
@@ -53,7 +53,7 @@ What about having multiple sites, all maintained and monitored by administrators
 
 ### Create a Social Network Website
 
-With self-hosted WordPress sites, it's possible to create a social network site. One can do this using a plugin such as [BuddyPress](https://buddypress.org/) or [bbPress](https://bbpress.org/). On WordPress.com sites, one can use the [P2 theme](https://wordpress.com/themes/p2) to create a forum and by using widgets such as the [talk.io widget](https://en.support.wordpress.com/widgets/tlk-io-widget/) or [Pidgin](https://en.support.wordpress.com/jabber/pidgin/) for chat.
+With self-hosted WordPress sites, it's possible to create a social network site. One can do this using a plugin such as [BuddyPress](https://buddypress.org/) or [bbPress](https://bbpress.org/). On WordPress.com sites, one can use the [P2 theme](https://wordpress.com/themes/p2) to create a forum and by using widgets such as the [talk.io widget](https://en.support.wordpress.com/widgets/tlk-io-widget/) or [Pidgin](https://en.support.wordpress.com/jabber/pidgin/) for chat.
 
 ### Create Apps
 
