@@ -1,4 +1,5 @@
-# What can you do with WordPress
+# What You Can Do With WordPress
+
 ## Description
 
 In this module you will learn about the many ways WordPress can be used to create blogs, websites, systems, apps, and much more!
@@ -25,7 +26,7 @@ After completing this lesson, students will be able to:
 
 ## Teacher Notes
 
-*   **Time Estimate**: 20-30 minutes
+*   **Time Estimate**: 20-30 minutes
 *   There are no other notes ; just links that are highlighted in the text.
 
 ## Hands-on Walkthrough
@@ -60,11 +61,11 @@ Turning a self-hosted WordPress site into an app is now possible using the [REST
 
 ### Monitor Who's Visiting Your Website
 
-WordPress makes it simple to keep track of what is going on with your website. One could use the analytics built-in with [Jetpack](http://jetpack.me/) and a third-party such as [Google Analytics](https://www.google.com/analytics/). It is also simple to integrate third party services via [plugins](https://wordpress.org/plugins/search.php?q=analytics).
+WordPress makes it simple to keep track of what is going on with your website. One could use the analytics built-in with [Jetpack](http://jetpack.me/) and a third-party such as [Google Analytics](https://www.google.com/analytics/). It is also simple to integrate third party services via [plugins](https://wordpress.org/plugins/search.php?q=analytics).
 
-### Generate More Web Traffic and Advertising Revenue
+### Generate More Web Traffic and Advertising Revenue
 
-People often ask how to make money with their websites. There are various ways to do this with a WordPress site. One way is to use links with [Google AdWords](https://www.google.com/adwords/) and other advertising networks on a self-hosted site. WordPress.com offers [WordAds](https://wordads.co/), which is similar. These options allow a person to place ads on a site and receive compensation for views and clicks. Another income source is [affiliate links](https://en.support.wordpress.com/affiliate-links/). For this, someone signs up with an affiliate program, gets referral links, places them on a site then receives compensation when readers click the link and purchase a product.
+People often ask how to make money with their websites. There are various ways to do this with a WordPress site. One way is to use links with [Google AdWords](https://www.google.com/adwords/) and other advertising networks on a self-hosted site. WordPress.com offers [WordAds](https://wordads.co/), which is similar. These options allow a person to place ads on a site and receive compensation for views and clicks. Another income source is [affiliate links](https://en.support.wordpress.com/affiliate-links/). For this, someone signs up with an affiliate program, gets referral links, places them on a site then receives compensation when readers click the link and purchase a product.
 
 ## Exercises
 
@@ -75,15 +76,15 @@ People often ask how to make money with their websites. There are various ways t
 *   Fill the post with content using Lorem Ipsum.
 *   Make several more posts to see how the posts are displayed on the blog page.
 
-**Create a website** Create a website by selecting the proper tools and using [Lorem Ipsum](http://www.lipsum.com/) to add content.
+**Create a website** Create a website by selecting the proper tools and using [Lorem Ipsum](http://www.lipsum.com/) to add content.
 
 *   Create a page to set as a homepage.
 *   Give the page a title.
-*   Fill the page with content using [Lorem Ipsum](http://www.lipsum.com/).
+*   Fill the page with content using [Lorem Ipsum](http://www.lipsum.com/).
 *   Publish the page.
-*   Set the homepage to static by going to dashboard>settings>reading.
+*   Set the homepage to static by going to dashboard>settings>reading.
 
-**Bonus – add another page to use as a blog page on a website then go to dashboard>settings>reading and set that page as a blog page on a website.
+**Bonus – add another page to use as a blog page on a website then go to dashboard>settings>reading and set that page as a blog page on a website.
 
 ## Quiz
 
@@ -98,6 +99,6 @@ People often ask how to make money with their websites. There are various ways t
 ### Can my blog become a website?
 
 1.  Yes.
-2.  No, you have to choose to have a blog or a website. You can't do both.
+2.  No, you have to choose to have a blog or a website. You can't do both.
 
-**Correct Answer:** 1\. Yes
+**Correct Answer:** 1\. Yes
