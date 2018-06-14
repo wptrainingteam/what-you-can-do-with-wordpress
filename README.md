@@ -8,7 +8,7 @@ In this module you will learn about the many ways WordPress can be used to creat
 
 After completing this lesson, students will be able to:
 
-*   Identify [multiple ways WordPress can be utilized](https://make.wordpress.org/training/handbook/user-lessons/what-can-you-do-with-wordpress/).
+*   Identify multiple ways WordPress can be utilized.
 
 ## Prerequisite Skills
 
@@ -17,17 +17,17 @@ After completing this lesson, students will be able to:
 ## Assets
 
 *   You will need a computer.
-*   You will need access to WordPress.com or a WordPress download.
+*   You will need access to [WordPress.com](https://wordpress.com/) or a [WordPress download](https://wordpress.org/download/).
 
 ## Screening Questions
 
-*   Are you familiar with blogs?
-*   Are you familiar with websites?
+*   Are you familiar with [blogs](https://en.wikipedia.org/wiki/Blog)?
+*   Are you familiar with [websites](https://en.wikipedia.org/wiki/Website)?
 
 ## Teacher Notes
 
 *   **Time Estimate**: 20-30 minutes
-*   There are no other notes ; just links that are highlighted in the text.
+*   There are no other notes; just links that are highlighted in the text.
 
 ## Hands-on Walkthrough
 
@@ -65,7 +65,7 @@ WordPress makes it simple to keep track of what is going on with your website. O
 
 ### Generate More Web Traffic and Advertising Revenue
 
-People often ask how to make money with their websites. There are various ways to do this with a WordPress site. One way is to use links with [Google AdWords](https://www.google.com/adwords/) and other advertising networks on a self-hosted site. WordPress.com offers [WordAds](https://wordads.co/), which is similar. These options allow a person to place ads on a site and receive compensation for views and clicks. Another income source is [affiliate links](https://en.support.wordpress.com/affiliate-links/). For this, someone signs up with an affiliate program, gets referral links, places them on a site then receives compensation when readers click the link and purchase a product.
+People often ask how to make money with their websites. There are various ways to do this with a WordPress site. One way is to use links with [Google AdWords](https://adwords.google.com) and other advertising networks on a self-hosted site. WordPress.com offers [WordAds](https://wordads.co/), which is similar. These options allow a person to place ads on a site and receive compensation for views and clicks. Another income source is [affiliate links](https://en.support.wordpress.com/affiliate-links/). For this, someone signs up with an affiliate program, gets referral links, places them on a site then receives compensation when readers click the link and purchase a product.
 
 ## Exercises
 
