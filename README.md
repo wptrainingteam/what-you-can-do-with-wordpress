@@ -176,7 +176,7 @@ Turning a self-hosted WordPress site into an app is now possible using the [REST
 
 ### Monitor Who's Visiting Your Website
 
-WordPress makes it simple to keep track of what is going on with your website. One could use the analytics built-in with [Jetpack](http://jetpack.me/) and a third-party such as [Google Analytics](https://www.google.com/analytics/). It is also simple to integrate third party services via [plugins](https://wordpress.org/plugins/search.php?q=analytics).
+WordPress makes it simple to keep track of what is going on with your website. One could use the analytics built-in with [Jetpack](https://jetpack.com/) and a third-party such as [Google Analytics](https://www.google.com/analytics/). It is also simple to integrate third party services via [plugins](https://wordpress.org/plugins/search.php?q=analytics).
 WordPress makes it simple to keep track of what is going on with your website. One could use the analytics built-in with [Jetpack](https://jetpack.com/) and a third-party such as [Google Analytics](https://www.google.com/analytics/). It is also simple to integrate third party services via [plugins](https://wordpress.org/plugins/search.php?q=analytics).
 
 [![Jetpack Site Stats](images/jetpack.png)](images/jetpack.png)
