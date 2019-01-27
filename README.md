@@ -106,7 +106,7 @@ Create a website by selecting the proper tools and using [Lorem Ipsum](http://
 *   Set the homepage to static by going to **Dashboard > Settings > Reading**.
 * **Bonus** – add another page to use as a blog page on a website then go to **Dashboard > Settings > Reading** and set that page as a blog page on a website.
 
-## Assessment
+## Quiz
 
 **Is it possible to use WordPress to make an app?**
 
@@ -114,14 +114,14 @@ Create a website by selecting the proper tools and using [Lorem Ipsum](http://
 2.  Yes, it's great for making games.
 3.  Yes, it can take a website and turn that site into an app.
 
-**Correct Answer:** 3\. Yes, it can take a website and turn that site into an app.
+**Answer:** 3. Yes, it can take a website and turn that site into an app.
 
 **Can my blog become a website?**
 
 1.  Yes.
 2.  No, you have to choose to have a blog or a website. You can't do both.
 
-**Correct Answer:** 1\. Yes
+**Answer:** 1. Yes
 
 
 ## Additional Resources
