@@ -123,6 +123,12 @@ Create a website by selecting the proper tools and using [Lorem Ipsum](http://
 
 **Answer:** 1. Yes
 
+**Can I upload plugin on wordpress.com?**
+
+1.  Yes.
+2.  No.
+
+**Answer:** 2. No
 
 ## Additional Resources
 
